@@ -13,6 +13,8 @@ html {
 body {
 direction:center;
  margin: 0;
+ $background: url('1.jpg')no-repeat center center fixed;
+
 }
 article,
 aside,
