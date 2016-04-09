@@ -6,6 +6,7 @@ p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
     margin: 0;
     padding: 0;
+
 }
 
 
@@ -14,6 +15,7 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
+background:url('1.jpg') no-repeat center center fixed;
     font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
     color: $text-color;
     background-color: $background-color;
